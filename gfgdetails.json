@@ -1,15 +1,15 @@
 [
     
-    {"slno":"Sl.No","pname":"Product","quantity":"quantity","unit":"unit","dept":"dept","notes":"notes"},
-    {"slno":"1","pname":"Rice","quantity":"10","unit":"Kg","dept":"grocery","notes":"Long Grain"},
-    {"slno":"2","pname":"Floor","quantity":"5","unit":"Kg","dept":"grocery","notes":"Roasted"},
-    {"slno":"3","pname":"Apple","quantity":"2","unit":"Kg","dept":"grocery","notes":"Kashmir"},
-    {"slno":"4","pname":"Orange","quantity":"1","unit":"Kg","dept":"grocery","notes":"Sweet"},
+    {"slno":"Sl.No","pname":"Product","quantity":"Quantity","unit":"Unit","dept":"Dept","notes":"Notes"},
+    {"slno":"1","pname":"Rice","quantity":"10","unit":"Kg","dept":"Grocery","notes":"Long Grain"},
+    {"slno":"2","pname":"Floor","quantity":"5","unit":"Kg","dept":"Grocery","notes":"Roasted"},
+    {"slno":"3","pname":"Apple","quantity":"2","unit":"Kg","dept":"Grocery","notes":"Kashmir"},
+    {"slno":"4","pname":"Orange","quantity":"1","unit":"Kg","dept":"Grocery","notes":"Sweet"},
     {"slno":"5","pname":"Milk","quantity":"2","unit":"Litre","dept":"Diary","notes":"Fresh Cow Milk"},
     {"slno":"6","pname":"Yogurt","quantity":"1","unit":"Cover","dept":"Diary","notes":"Long Grain"},
     {"slno":"7","pname":"Potatoes","quantity":"1","unit":"Kg","dept":"Vegetable","notes":"Medium"},
-    {"slno":"8","pname":"Muffins","quantity":"2","unit":"Packet","dept":"grocery","notes":"Baked"},
-    {"slno":"9","pname":"Soap","quantity":"3","unit":"packet","dept":"Toiletries","notes":"Dish Soap"},
+    {"slno":"8","pname":"Muffins","quantity":"2","unit":"Packet","dept":"Grocery","notes":"Baked"},
+    {"slno":"9","pname":"Soap","quantity":"3","unit":"packet","dept":"Household","notes":"Dish Soap"},
     {"slno":"10","pname":"Bengal Gram","quantity":"2","unit":"Kg","dept":"Cereals","notes":"Hot Cereal"}
 
 ]
